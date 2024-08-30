@@ -15,7 +15,6 @@
 .pmc-dark-svg-color {
   fill: #78909c !important;
 }
-
 /* <bod> element */
 .pcm-dark-body-override {
   background-color: #181818 !important;
@@ -26,9 +25,19 @@
   margin-top: 95vh !important;
 }
 
+.pcm-grid-container-overrides{
+  grid-template-columns: 1fr !important;
+}
+
+
 /* <video> element */
 .pcm-video-overrides {
   max-height: 94vh !important;
+}
+
+.pcm-postcard-container-overrides{
+  width: 80% !important;
+  max-width: 80% !important;
 }
 
 /* third parent of <video> element */

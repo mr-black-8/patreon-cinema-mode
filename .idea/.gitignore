@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/modules.xml
+/patreon-cinema-mode.iml
+/vcs.xml
