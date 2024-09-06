@@ -21,8 +21,8 @@
 }
 
 /* First child of <main> element */
-.pcm-main-child-overrides {
-  margin-top: 95vh !important;
+.pcm-fixed-width-container-overrides {
+  max-width: 100% !important;
 }
 
 .pcm-grid-container-overrides{
